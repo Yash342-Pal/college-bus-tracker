@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: Arial;
-  background: #393442;
+  background: #5F5AA2;
 }
 
 .container {
@@ -41,4 +41,5 @@ select {
   font-size: 14px;
   margin-top: 5px;
 }
+
 
